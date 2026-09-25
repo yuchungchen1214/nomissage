@@ -94,4 +94,4 @@ Please protect the record file and consider the privacy of everyone included in 
 
 MIT License. See [LICENSE](LICENSE).
 
-NoMissage © 2026 WhARTS Ltd.
+Copyright © 2026 WhARTS Ltd.

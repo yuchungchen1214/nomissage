@@ -92,6 +92,6 @@ Please protect the record file and consider the privacy of everyone included in 
 
 ## License
 
-MIT License. See [LICENSE](LICENSE).
+Copyright © 2026 WhARTS Ltd. — Licensed under the MIT License. See [LICENSE](LICENSE).
 
-Copyright © 2026 WhARTS Ltd.
+
